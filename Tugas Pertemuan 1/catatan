@@ -1,0 +1,5 @@
+#Belajar fungsi print, Jumat 18 Agustus
+#Funsi print adalah untuk menampilkan output
+#untuk menulis paragraf gunakan kutip 2 tiga kali (""")
+#untuk membuat input (masukan) buat string terlebih dahulu lalu tulis "input di kodenya"
+#jangan lupa buat role angkanya karena defaultnya adalah string gunakan int() "Integer (bilangan bulat)"
